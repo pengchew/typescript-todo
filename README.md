@@ -1,4 +1,4 @@
-https://pengchew.github.io/typescript-todo/build/index.html
+https://pengchew.github.io/typescript-todo/
 
 ```
 interface ITodo {
